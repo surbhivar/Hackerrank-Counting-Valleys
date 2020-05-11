@@ -12,11 +12,11 @@ Given Gary's sequence of up and down steps during his last hike, find and print 
 
 For example, if Gary's path is , he first enters a valley units deep. Then he climbs out an up onto a mountain units high. Finally, he returns to sea level and ends his hike.
 
-Sample Input
+Sample Input :
 8
 UDDDUDUU
 
-Sample Output
+Sample Output :
 1
 
 
